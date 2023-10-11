@@ -5,7 +5,8 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Scripting/PHPClass.php to edit this template
  */
 
-namespace App\Classes\Metier;
+namespace App\classes\metier;
+
 use DeepCopy\TypeFilter\Date;
 use App\Exceptions\AppException;
 /**
